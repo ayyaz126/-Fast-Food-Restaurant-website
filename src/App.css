@@ -1,0 +1,14 @@
+.demo{
+  color: green;
+  font-size: 45px;
+  font-weight: bold;
+}
+.demo1{
+  color: aqua;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.demo2{
+  width: 100%;
+  height: 400px;
+}
